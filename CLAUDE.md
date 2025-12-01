@@ -1,0 +1,1 @@
+- das logo unten aalso das banner wird noch nicht ganz angezeigt fix das
