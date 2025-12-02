@@ -81,7 +81,9 @@ const styles = {
     margin: "24px 0",
     objectFit: "contain",
     maxHeight: "250px",
-    boxShadow: "0 8px 24px rgba(0, 0, 0, 0.12)"
+    boxShadow: "0 8px 24px rgba(0, 0, 0, 0.12)",
+    background: "#fff",
+    padding: "24px"
   },
   title: {
     fontSize: "2.5rem",
