@@ -281,10 +281,6 @@ function InnovationCheckApp() {
     <div style={styles.page}>
       <div style={styles.backgroundPattern}></div>
       <div style={styles.layout}>
-        <header style={styles.header}>
-          <img src="/CF Logo.png" alt="Clever Funding Logo" style={styles.logo} />
-        </header>
-
         <div style={{ ...styles.card, padding: isMobile ? "32px 24px" : "48px" }}>
           {step === "start" && (
             <>
@@ -295,11 +291,6 @@ function InnovationCheckApp() {
                 Beantworte 9 kurze Fragen mit Ja oder Nein und erhalte eine erste Orientierung, ob
                 dein Vorhaben Merkmale für die Forschungszulage mitbringt.
               </p>
-              <img
-                src="/Cleverfunding_logo_RGB.jpg"
-                alt="Clever Funding Banner"
-                style={styles.banner}
-              />
               <div style={styles.buttonsRow}>
                 <button
                   style={{ ...styles.buttonPrimary, ...buttonFullWidth }}
