@@ -410,7 +410,7 @@ function InnovationCheckApp() {
 
               <div style={styles.buttonsRow}>
                 <a
-                  href="https://clever-funding.de"
+                  href="https://formulare.clever-funding.de/t/4M7R318prmus"
                   style={{ ...styles.buttonPrimary, ...buttonFullWidth, flex: isMobile ? "none" : "1" }}
                   onMouseEnter={(e) => {
                     e.currentTarget.style.transform = "translateY(-2px)";
